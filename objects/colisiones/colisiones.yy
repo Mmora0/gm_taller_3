@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "colisionador",
-    "path": "folders/Objects/colisionador.yy",
+    "name": "group1",
+    "path": "folders/Objects/group1.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -20,7 +20,7 @@
     {"name":"colision","order":4,"path":"folders/Sprites/colision.yy",},
     {"name":"teleport","order":5,"path":"folders/Sprites/teleport.yy",},
     {"name":"ob_pj","order":1,"path":"folders/Objects/ob_pj.yy",},
-    {"name":"colisionador","order":2,"path":"folders/Objects/colisionador.yy",},
+    {"name":"group1","order":2,"path":"folders/Objects/group1.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"pj_move","order":1,"path":"sprites/pj_move/pj_move.yy",},
