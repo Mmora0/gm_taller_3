@@ -25,6 +25,8 @@
   "ResourceOrderSettings": [
     {"name":"teleport3","order":3,"path":"objects/teleport3/teleport3.yy",},
     {"name":"teleport2","order":2,"path":"objects/teleport2/teleport2.yy",},
+    {"name":"corazon","order":1,"path":"sprites/corazon/corazon.yy",},
+    {"name":"objcor","order":1,"path":"objects/objcor/objcor.yy",},
     {"name":"tp2","order":2,"path":"sprites/tp2/tp2.yy",},
     {"name":"tp3","order":3,"path":"sprites/tp3/tp3.yy",},
     {"name":"escenario2","order":1,"path":"sprites/escenario2/escenario2.yy",},

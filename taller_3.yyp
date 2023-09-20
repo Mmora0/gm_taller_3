@@ -43,6 +43,8 @@
     {"id":{"name":"colisionador","path":"sprites/colisionador/colisionador.yy",},},
     {"id":{"name":"teleport3","path":"objects/teleport3/teleport3.yy",},},
     {"id":{"name":"teleport2","path":"objects/teleport2/teleport2.yy",},},
+    {"id":{"name":"corazon","path":"sprites/corazon/corazon.yy",},},
+    {"id":{"name":"objcor","path":"objects/objcor/objcor.yy",},},
     {"id":{"name":"colisiones","path":"objects/colisiones/colisiones.yy",},},
     {"id":{"name":"tp2","path":"sprites/tp2/tp2.yy",},},
     {"id":{"name":"tp3","path":"sprites/tp3/tp3.yy",},},

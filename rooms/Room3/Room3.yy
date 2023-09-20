@@ -13,11 +13,13 @@
     {"name":"inst_6038CCB4_1","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_22E4F183_1","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_420080C5","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_CC6FD6E","path":"rooms/Room3/Room3.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"tp","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_420080C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"teleport3","path":"objects/teleport3/teleport3.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":3.0,"x":1856.0,"y":960.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_CC6FD6E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objcor","path":"objects/objcor/objcor.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":928.0,"y":896.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"colision","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E235075_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"colisiones","path":"objects/colisiones/colisiones.yy",},"properties":[],"rotation":0.0,"scaleX":30.0,"scaleY":1.0,"x":960.0,"y":832.0,},
