@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "colisiones",
+  "name": "teleport1",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"pj","path":"objects/pj/pj.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
@@ -21,7 +21,7 @@
   "physicsLinearDamping": 0.1,
   "physicsObject": true,
   "physicsRestitution": 0.1,
-  "physicsSensor": false,
+  "physicsSensor": true,
   "physicsShape": 1,
   "physicsShapePoints": [
     {"x":0.0,"y":0.0,},
@@ -31,10 +31,10 @@
   ],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "colisionador",
-    "path": "sprites/colisionador/colisionador.yy",
+    "name": "tp1",
+    "path": "sprites/tp1/tp1.yy",
   },
   "spriteMaskId": null,
   "visible": false,
